@@ -2,10 +2,10 @@
 Hi. Welcome to CodeFruit. I am a developer that aims to make code fun and relaxing for everyone. I make ASMR YouTube content, blogs, apps, and more. Check out some of my work below:
 
 ### # Our YouTube Channel
-https://www.youtube.com/@CodeFruit
+https://codefruit.io
 
 ### # Our Blog
-https://codefruit.io
+https://blog.codefruit.io
 
 ### # Our Latest App
 https://lootr.appalanche.games
