@@ -4,9 +4,6 @@ Hi. Welcome to CodeFruit. I am a developer that aims to make code fun and relaxi
 ### # Our YouTube Channel
 https://codefruit.io
 
-### # Our Blog
-https://blog.codefruit.io
-
 ### # Our Latest App
 https://lootr.appalanche.games
 
